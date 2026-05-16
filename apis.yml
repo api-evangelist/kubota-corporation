@@ -1,17 +1,46 @@
 aid: kubota-corporation
-url: https://raw.githubusercontent.com/api-evangelist/kubota-corporation/refs/heads/main/apis.yml
 name: Kubota Corporation
-type: Index
+description: >-
+  Kubota Corporation is a Japanese multinational manufacturing agricultural,
+  construction, and industrial machinery, including compact tractors,
+  excavators, mowers, utility vehicles, engines, and water and environmental
+  infrastructure systems sold in over 120 countries. Kubota does not currently
+  publish a public developer API or developer portal; equipment telematics
+  (KubotaNOW) and dealer integrations are handled through partner channels
+  rather than open APIs.
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Agriculture
+  - Construction Equipment
   - Heavy Equipment
   - Manufacturing
-description: 'A Japanese multinational corporation manufacturing agricultural, construction, and industrial machinery. A leading producer of compact tractors, excavators, and water infrastructure systems sold in over 120 countries.'
+  - Telematics
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/kubota-corporation/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.kubota.com/
+  - type: Website
+    url: https://www.kubotausa.com/
+  - type: Products
+    url: https://www.kubota.com/products/
+  - type: InvestorRelations
+    url: https://www.kubota.com/ir/
+  - type: News
+    url: https://www.kubota.com/news/
+  - type: Sustainability
+    url: https://www.kubota.com/sustainability/
+  - type: Careers
+    url: https://www.kubota.com/careers/
+  - type: Dealers
+    url: https://www.kubotausa.com/dealers
+  - type: Telematics
+    url: https://www.kubotausa.com/kubotanow
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
