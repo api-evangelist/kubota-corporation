@@ -9,7 +9,18 @@ description: >-
   (KubotaNOW) and dealer integrations are handled through partner channels
   rather than open APIs.
 kind: company
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kubota-corporation.png
 tags:
   - Agriculture
   - Construction Equipment
