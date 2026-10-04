@@ -1,5 +1,5 @@
 aid: kubota-corporation
-name: Kubota Corporation
+name: Kubota
 description: >-
   Kubota Corporation is a Japanese multinational manufacturing agricultural,
   construction, and industrial machinery, including compact tractors,
@@ -72,3 +72,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Kubota Corporation
